@@ -1,4 +1,4 @@
-# Paint-Job-Estimator
+# Paint Job Estimator
 
 ## Objective
 
